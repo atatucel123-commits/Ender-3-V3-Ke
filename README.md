@@ -1,5 +1,6 @@
 # Ender-3-V3-Ke
 Help Needed: Optimizing Ender 3 V3 KE Profiles Pla
+
 I am working on my PrusaSlicer profiles for the Ender 3 V3 KE. I am currently not satisfied with the results and I'm looking for advice to improve them.
 
 My Main Issues:
